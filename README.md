@@ -1,3 +1,4 @@
+- My portfolio is [here](https://github.com/tupperq/portfolio)
 - 👋 Hi, I’m Pavel Fetisov aka @tupperq
 - 👀 I’m interested in Data Science
 - 💞️ I’m looking to collaborate on any ML project
