@@ -1,6 +1,6 @@
 ## Hi there, I’m Pavel Fetisov aka @tupperq
 ### __My **portfolio** is__ [here](https://github.com/tupperq/portfolio)
-- 🏆 I’m currently looking for a job in Data Science
+- 🏆 I’m currently working as Data Scientist
 - 📆 2024 Goals: develop myself and contribute to lots of projects 
 - 💞️ I’m happy to collaborate on any ML project
 
