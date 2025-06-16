@@ -2,7 +2,6 @@
 ### __My **portfolio** is__ [here](https://github.com/tupperq/portfolio)
 - Data Scientist
 - Specialization: NLP, Image Processing, Time Series
-- I’m happy to collaborate on any ML project
 
 
 ### Connect with me:
